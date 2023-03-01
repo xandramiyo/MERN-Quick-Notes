@@ -1,0 +1,15 @@
+.note-ctr {
+	margin: 1rem;
+	padding: .5rem;
+	width: 10rem;
+	height: 12rem;
+	border: 1px solid white;
+}
+
+.date {
+	font-size: .7rem;
+	text-align: right;
+	padding-bottom: .2rem;
+	border-bottom: 1px white solid;
+	margin-bottom: .2rem;
+}

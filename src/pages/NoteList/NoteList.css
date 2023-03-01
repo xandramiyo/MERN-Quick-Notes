@@ -1,0 +1,8 @@
+.add-note {
+	align-items: center;
+}
+
+.show-note {
+	flex-wrap: wrap;
+	justify-content: center;
+}
